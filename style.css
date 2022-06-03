@@ -44,21 +44,6 @@ a{
     text-decoration: none;
     color: white;
 }
-.overlay{
-    position: absolute;
-    top: 0;
-    left: 0%;
-    padding: 25px 30px;
-    background-color: yellow;
-    color: black;
-    font-size: 18px;
-    text-transform: capitalize;
-    text-align: center;
-    border: none;
-    margin: 40px 0px;
-    transition: ease-in;
-}
-
 .recp-btn img{
     width:10px;
     margin-right: 15px;
